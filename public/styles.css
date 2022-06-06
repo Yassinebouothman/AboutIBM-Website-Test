@@ -1,3 +1,68 @@
-.helloInput {
-  width: 200px;
+.banner {
+
+  height: 200px;
+  background-color: #264F93;
+
+}
+
+.whitetitle {
+  color: white;
+  padding-top: 45px;
+  text-align: center;
+}
+section center hr{
+  width: 7%;
+}
+.video{
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  padding-bottom: 0;
+
+}
+
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+
+}
+.section2_layout{
+  position:relative; 
+  background-color:#F8F8F8; 
+  height: 280px; 
+  width: 100%;
+}
+
+.image1_layout{
+  min-width:78px; 
+  max-width:10vw; 
+  position:absolute; 
+  left:15vw;
+}
+.learn-more-banner {
+
+  background-color: #264E93;
+  height: 160px;
+  padding-top: 50px;
+}
+
+.learn-more-title {
+  font-size: 1.7em;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.bottombutton {
+  background-color: #FFFFFF;
+  border: none;
+  color: black;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
 }
